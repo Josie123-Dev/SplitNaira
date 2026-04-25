@@ -11,9 +11,6 @@
 contracts/test_snapshots/
 
 # Env files
-.env
-.env.local
-.env.*
 !.env.example
 
 # Misc
@@ -21,3 +18,4 @@ contracts/test_snapshots/
 
 # local
 yarn.lock
+config.bat
